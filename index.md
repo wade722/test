@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Fake content goes here, but this whole layout/markup seems very limited. 
 ## I GUESS THIS WOULD BE A HEADER 2
 And if there were a link, I suppose it would go [here](https://fakeurlwk.com/fake/#)
-! [Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPuppy&psig=AOvVaw0PiEdsFs0ecYTSqmT6l21I&ust=1619016503246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiL882IjfACFQAAAAAdAAAAABAI)
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPuppy&psig=AOvVaw0PiEdsFs0ecYTSqmT6l21I&ust=1619016503246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiL882IjfACFQAAAAAdAAAAABAI)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
